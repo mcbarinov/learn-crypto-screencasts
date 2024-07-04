@@ -1,0 +1,5 @@
+lint:
+    cargo fmt && cargo clippy
+
+jwt:
+    cargo run -q

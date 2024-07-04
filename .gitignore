@@ -1,4 +1,5 @@
 .idea/
+target/
 tmp/
 .env
 .DS_Store
