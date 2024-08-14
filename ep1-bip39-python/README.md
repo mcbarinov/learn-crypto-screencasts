@@ -1,5 +1,9 @@
-# EP1: BIP39, Python 
+# Learn Crypto Screencasts
+### Ep1: BIP39, Python 
 Mnemonic code for generating deterministic keys
+
+[Watch the episode: https://odysee.com/@learn-crypto-screencasts:6/lcs-ep1-bip39-python:8](https://odysee.com/@learn-crypto-screencasts:6/lcs-ep1-bip39-python:8)
+
 
 Links:
 - https://iancoleman.io/bip39/#english
