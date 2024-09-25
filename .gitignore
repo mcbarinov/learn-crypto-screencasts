@@ -2,6 +2,9 @@
 target/
 __pycache__/
 .venv/
+cache/
+out/
 tmp/
 .env
 .DS_Store
+

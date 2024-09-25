@@ -1,0 +1,8 @@
+fmt:
+    forge fmt
+
+test:
+    forge test
+
+script:
+    forge script script/Counter.s.sol
